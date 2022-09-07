@@ -1,0 +1,1734 @@
+{
+  "ships" : [ {
+    "name" : "ship95",
+    "arriveTime" : {
+      "time" : 0
+    },
+    "unloadingTime" : {
+      "time" : 1352
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship17",
+    "arriveTime" : {
+      "time" : 0
+    },
+    "unloadingTime" : {
+      "time" : 560
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship25",
+    "arriveTime" : {
+      "time" : 0
+    },
+    "unloadingTime" : {
+      "time" : 728
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship36",
+    "arriveTime" : {
+      "time" : 0
+    },
+    "unloadingTime" : {
+      "time" : 251
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship57",
+    "arriveTime" : {
+      "time" : 601
+    },
+    "unloadingTime" : {
+      "time" : 123
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship69",
+    "arriveTime" : {
+      "time" : 631
+    },
+    "unloadingTime" : {
+      "time" : 2117
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship81",
+    "arriveTime" : {
+      "time" : 930
+    },
+    "unloadingTime" : {
+      "time" : 1268
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship91",
+    "arriveTime" : {
+      "time" : 2120
+    },
+    "unloadingTime" : {
+      "time" : 28
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship68",
+    "arriveTime" : {
+      "time" : 2194
+    },
+    "unloadingTime" : {
+      "time" : 410
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship20",
+    "arriveTime" : {
+      "time" : 2680
+    },
+    "unloadingTime" : {
+      "time" : 863
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship56",
+    "arriveTime" : {
+      "time" : 2731
+    },
+    "unloadingTime" : {
+      "time" : 684
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship53",
+    "arriveTime" : {
+      "time" : 2946
+    },
+    "unloadingTime" : {
+      "time" : 60
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship51",
+    "arriveTime" : {
+      "time" : 3282
+    },
+    "unloadingTime" : {
+      "time" : 432
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship3",
+    "arriveTime" : {
+      "time" : 3482
+    },
+    "unloadingTime" : {
+      "time" : 153
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship65",
+    "arriveTime" : {
+      "time" : 3857
+    },
+    "unloadingTime" : {
+      "time" : 84
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship48",
+    "arriveTime" : {
+      "time" : 4043
+    },
+    "unloadingTime" : {
+      "time" : 726
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship18",
+    "arriveTime" : {
+      "time" : 4058
+    },
+    "unloadingTime" : {
+      "time" : 327
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship9",
+    "arriveTime" : {
+      "time" : 5170
+    },
+    "unloadingTime" : {
+      "time" : 1654
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship43",
+    "arriveTime" : {
+      "time" : 5309
+    },
+    "unloadingTime" : {
+      "time" : 960
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship59",
+    "arriveTime" : {
+      "time" : 5324
+    },
+    "unloadingTime" : {
+      "time" : 994
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship47",
+    "arriveTime" : {
+      "time" : 5597
+    },
+    "unloadingTime" : {
+      "time" : 1524
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship39",
+    "arriveTime" : {
+      "time" : 5968
+    },
+    "unloadingTime" : {
+      "time" : 129
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship93",
+    "arriveTime" : {
+      "time" : 6262
+    },
+    "unloadingTime" : {
+      "time" : 862
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship52",
+    "arriveTime" : {
+      "time" : 6611
+    },
+    "unloadingTime" : {
+      "time" : 2002
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship45",
+    "arriveTime" : {
+      "time" : 6784
+    },
+    "unloadingTime" : {
+      "time" : 511
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship66",
+    "arriveTime" : {
+      "time" : 7571
+    },
+    "unloadingTime" : {
+      "time" : 808
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship5",
+    "arriveTime" : {
+      "time" : 7615
+    },
+    "unloadingTime" : {
+      "time" : 490
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship38",
+    "arriveTime" : {
+      "time" : 7712
+    },
+    "unloadingTime" : {
+      "time" : 33
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship92",
+    "arriveTime" : {
+      "time" : 7840
+    },
+    "unloadingTime" : {
+      "time" : 891
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship73",
+    "arriveTime" : {
+      "time" : 8376
+    },
+    "unloadingTime" : {
+      "time" : 32
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship16",
+    "arriveTime" : {
+      "time" : 10227
+    },
+    "unloadingTime" : {
+      "time" : 1393
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship85",
+    "arriveTime" : {
+      "time" : 10700
+    },
+    "unloadingTime" : {
+      "time" : 1830
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship54",
+    "arriveTime" : {
+      "time" : 11209
+    },
+    "unloadingTime" : {
+      "time" : 93
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship99",
+    "arriveTime" : {
+      "time" : 12221
+    },
+    "unloadingTime" : {
+      "time" : 851
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship31",
+    "arriveTime" : {
+      "time" : 13119
+    },
+    "unloadingTime" : {
+      "time" : 1614
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship22",
+    "arriveTime" : {
+      "time" : 13663
+    },
+    "unloadingTime" : {
+      "time" : 1185
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship50",
+    "arriveTime" : {
+      "time" : 14468
+    },
+    "unloadingTime" : {
+      "time" : 209
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship49",
+    "arriveTime" : {
+      "time" : 15313
+    },
+    "unloadingTime" : {
+      "time" : 1292
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship55",
+    "arriveTime" : {
+      "time" : 15733
+    },
+    "unloadingTime" : {
+      "time" : 1055
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship61",
+    "arriveTime" : {
+      "time" : 16038
+    },
+    "unloadingTime" : {
+      "time" : 1278
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship64",
+    "arriveTime" : {
+      "time" : 17102
+    },
+    "unloadingTime" : {
+      "time" : 419
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship46",
+    "arriveTime" : {
+      "time" : 18426
+    },
+    "unloadingTime" : {
+      "time" : 2448
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship37",
+    "arriveTime" : {
+      "time" : 18554
+    },
+    "unloadingTime" : {
+      "time" : 509
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship89",
+    "arriveTime" : {
+      "time" : 18910
+    },
+    "unloadingTime" : {
+      "time" : 676
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship15",
+    "arriveTime" : {
+      "time" : 19177
+    },
+    "unloadingTime" : {
+      "time" : 324
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship94",
+    "arriveTime" : {
+      "time" : 20017
+    },
+    "unloadingTime" : {
+      "time" : 446
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship77",
+    "arriveTime" : {
+      "time" : 20986
+    },
+    "unloadingTime" : {
+      "time" : 590
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship7",
+    "arriveTime" : {
+      "time" : 21006
+    },
+    "unloadingTime" : {
+      "time" : 456
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship29",
+    "arriveTime" : {
+      "time" : 21078
+    },
+    "unloadingTime" : {
+      "time" : 805
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship24",
+    "arriveTime" : {
+      "time" : 21116
+    },
+    "unloadingTime" : {
+      "time" : 2070
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship2",
+    "arriveTime" : {
+      "time" : 22269
+    },
+    "unloadingTime" : {
+      "time" : 16
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship32",
+    "arriveTime" : {
+      "time" : 22277
+    },
+    "unloadingTime" : {
+      "time" : 460
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship98",
+    "arriveTime" : {
+      "time" : 24136
+    },
+    "unloadingTime" : {
+      "time" : 876
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship23",
+    "arriveTime" : {
+      "time" : 24209
+    },
+    "unloadingTime" : {
+      "time" : 550
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship96",
+    "arriveTime" : {
+      "time" : 24999
+    },
+    "unloadingTime" : {
+      "time" : 13
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship60",
+    "arriveTime" : {
+      "time" : 25042
+    },
+    "unloadingTime" : {
+      "time" : 832
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship84",
+    "arriveTime" : {
+      "time" : 25323
+    },
+    "unloadingTime" : {
+      "time" : 162
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship41",
+    "arriveTime" : {
+      "time" : 26748
+    },
+    "unloadingTime" : {
+      "time" : 936
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship27",
+    "arriveTime" : {
+      "time" : 27054
+    },
+    "unloadingTime" : {
+      "time" : 120
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship14",
+    "arriveTime" : {
+      "time" : 27596
+    },
+    "unloadingTime" : {
+      "time" : 842
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship1",
+    "arriveTime" : {
+      "time" : 28669
+    },
+    "unloadingTime" : {
+      "time" : 1222
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship13",
+    "arriveTime" : {
+      "time" : 28839
+    },
+    "unloadingTime" : {
+      "time" : 2908
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship71",
+    "arriveTime" : {
+      "time" : 28865
+    },
+    "unloadingTime" : {
+      "time" : 132
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship63",
+    "arriveTime" : {
+      "time" : 29507
+    },
+    "unloadingTime" : {
+      "time" : 997
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship42",
+    "arriveTime" : {
+      "time" : 29838
+    },
+    "unloadingTime" : {
+      "time" : 860
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship26",
+    "arriveTime" : {
+      "time" : 30595
+    },
+    "unloadingTime" : {
+      "time" : 933
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship62",
+    "arriveTime" : {
+      "time" : 30798
+    },
+    "unloadingTime" : {
+      "time" : 379
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship40",
+    "arriveTime" : {
+      "time" : 31307
+    },
+    "unloadingTime" : {
+      "time" : 168
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship74",
+    "arriveTime" : {
+      "time" : 32415
+    },
+    "unloadingTime" : {
+      "time" : 366
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship19",
+    "arriveTime" : {
+      "time" : 32767
+    },
+    "unloadingTime" : {
+      "time" : 768
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship70",
+    "arriveTime" : {
+      "time" : 33080
+    },
+    "unloadingTime" : {
+      "time" : 1221
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship35",
+    "arriveTime" : {
+      "time" : 33593
+    },
+    "unloadingTime" : {
+      "time" : 412
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship90",
+    "arriveTime" : {
+      "time" : 33734
+    },
+    "unloadingTime" : {
+      "time" : 298
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship28",
+    "arriveTime" : {
+      "time" : 34258
+    },
+    "unloadingTime" : {
+      "time" : 236
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship97",
+    "arriveTime" : {
+      "time" : 34711
+    },
+    "unloadingTime" : {
+      "time" : 1051
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship79",
+    "arriveTime" : {
+      "time" : 35619
+    },
+    "unloadingTime" : {
+      "time" : 839
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship21",
+    "arriveTime" : {
+      "time" : 36788
+    },
+    "unloadingTime" : {
+      "time" : 645
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship4",
+    "arriveTime" : {
+      "time" : 37564
+    },
+    "unloadingTime" : {
+      "time" : 101
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship72",
+    "arriveTime" : {
+      "time" : 38125
+    },
+    "unloadingTime" : {
+      "time" : 287
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship80",
+    "arriveTime" : {
+      "time" : 38511
+    },
+    "unloadingTime" : {
+      "time" : 818
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship95",
+    "arriveTime" : {
+      "time" : 0
+    },
+    "unloadingTime" : {
+      "time" : 1352
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship36",
+    "arriveTime" : {
+      "time" : 0
+    },
+    "unloadingTime" : {
+      "time" : 251
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship17",
+    "arriveTime" : {
+      "time" : 0
+    },
+    "unloadingTime" : {
+      "time" : 560
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship25",
+    "arriveTime" : {
+      "time" : 0
+    },
+    "unloadingTime" : {
+      "time" : 728
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship57",
+    "arriveTime" : {
+      "time" : 601
+    },
+    "unloadingTime" : {
+      "time" : 123
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship69",
+    "arriveTime" : {
+      "time" : 631
+    },
+    "unloadingTime" : {
+      "time" : 2117
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship81",
+    "arriveTime" : {
+      "time" : 930
+    },
+    "unloadingTime" : {
+      "time" : 1268
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship91",
+    "arriveTime" : {
+      "time" : 2120
+    },
+    "unloadingTime" : {
+      "time" : 28
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship68",
+    "arriveTime" : {
+      "time" : 2194
+    },
+    "unloadingTime" : {
+      "time" : 410
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship20",
+    "arriveTime" : {
+      "time" : 2680
+    },
+    "unloadingTime" : {
+      "time" : 863
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship56",
+    "arriveTime" : {
+      "time" : 2731
+    },
+    "unloadingTime" : {
+      "time" : 684
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship53",
+    "arriveTime" : {
+      "time" : 2946
+    },
+    "unloadingTime" : {
+      "time" : 60
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship51",
+    "arriveTime" : {
+      "time" : 3282
+    },
+    "unloadingTime" : {
+      "time" : 432
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship3",
+    "arriveTime" : {
+      "time" : 3482
+    },
+    "unloadingTime" : {
+      "time" : 153
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship65",
+    "arriveTime" : {
+      "time" : 3857
+    },
+    "unloadingTime" : {
+      "time" : 84
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship48",
+    "arriveTime" : {
+      "time" : 4043
+    },
+    "unloadingTime" : {
+      "time" : 726
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship18",
+    "arriveTime" : {
+      "time" : 4058
+    },
+    "unloadingTime" : {
+      "time" : 327
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship9",
+    "arriveTime" : {
+      "time" : 5170
+    },
+    "unloadingTime" : {
+      "time" : 1654
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship43",
+    "arriveTime" : {
+      "time" : 5309
+    },
+    "unloadingTime" : {
+      "time" : 960
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship59",
+    "arriveTime" : {
+      "time" : 5324
+    },
+    "unloadingTime" : {
+      "time" : 994
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship47",
+    "arriveTime" : {
+      "time" : 5597
+    },
+    "unloadingTime" : {
+      "time" : 1524
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship39",
+    "arriveTime" : {
+      "time" : 5968
+    },
+    "unloadingTime" : {
+      "time" : 129
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship93",
+    "arriveTime" : {
+      "time" : 6262
+    },
+    "unloadingTime" : {
+      "time" : 862
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship52",
+    "arriveTime" : {
+      "time" : 6611
+    },
+    "unloadingTime" : {
+      "time" : 2002
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship45",
+    "arriveTime" : {
+      "time" : 6784
+    },
+    "unloadingTime" : {
+      "time" : 511
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship66",
+    "arriveTime" : {
+      "time" : 7571
+    },
+    "unloadingTime" : {
+      "time" : 808
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship5",
+    "arriveTime" : {
+      "time" : 7615
+    },
+    "unloadingTime" : {
+      "time" : 490
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship38",
+    "arriveTime" : {
+      "time" : 7712
+    },
+    "unloadingTime" : {
+      "time" : 33
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship92",
+    "arriveTime" : {
+      "time" : 7840
+    },
+    "unloadingTime" : {
+      "time" : 891
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship73",
+    "arriveTime" : {
+      "time" : 8376
+    },
+    "unloadingTime" : {
+      "time" : 32
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship16",
+    "arriveTime" : {
+      "time" : 10227
+    },
+    "unloadingTime" : {
+      "time" : 1393
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship85",
+    "arriveTime" : {
+      "time" : 10700
+    },
+    "unloadingTime" : {
+      "time" : 1830
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship54",
+    "arriveTime" : {
+      "time" : 11209
+    },
+    "unloadingTime" : {
+      "time" : 93
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship99",
+    "arriveTime" : {
+      "time" : 12221
+    },
+    "unloadingTime" : {
+      "time" : 851
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship31",
+    "arriveTime" : {
+      "time" : 13119
+    },
+    "unloadingTime" : {
+      "time" : 1614
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship22",
+    "arriveTime" : {
+      "time" : 13663
+    },
+    "unloadingTime" : {
+      "time" : 1185
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship50",
+    "arriveTime" : {
+      "time" : 14468
+    },
+    "unloadingTime" : {
+      "time" : 209
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship49",
+    "arriveTime" : {
+      "time" : 15313
+    },
+    "unloadingTime" : {
+      "time" : 1292
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship55",
+    "arriveTime" : {
+      "time" : 15733
+    },
+    "unloadingTime" : {
+      "time" : 1055
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship61",
+    "arriveTime" : {
+      "time" : 16038
+    },
+    "unloadingTime" : {
+      "time" : 1278
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship64",
+    "arriveTime" : {
+      "time" : 17102
+    },
+    "unloadingTime" : {
+      "time" : 419
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship46",
+    "arriveTime" : {
+      "time" : 18426
+    },
+    "unloadingTime" : {
+      "time" : 2448
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship37",
+    "arriveTime" : {
+      "time" : 18554
+    },
+    "unloadingTime" : {
+      "time" : 509
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship89",
+    "arriveTime" : {
+      "time" : 18910
+    },
+    "unloadingTime" : {
+      "time" : 676
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship15",
+    "arriveTime" : {
+      "time" : 19177
+    },
+    "unloadingTime" : {
+      "time" : 324
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship94",
+    "arriveTime" : {
+      "time" : 20017
+    },
+    "unloadingTime" : {
+      "time" : 446
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship77",
+    "arriveTime" : {
+      "time" : 20986
+    },
+    "unloadingTime" : {
+      "time" : 590
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship7",
+    "arriveTime" : {
+      "time" : 21006
+    },
+    "unloadingTime" : {
+      "time" : 456
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship29",
+    "arriveTime" : {
+      "time" : 21078
+    },
+    "unloadingTime" : {
+      "time" : 805
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship24",
+    "arriveTime" : {
+      "time" : 21116
+    },
+    "unloadingTime" : {
+      "time" : 2070
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship2",
+    "arriveTime" : {
+      "time" : 22269
+    },
+    "unloadingTime" : {
+      "time" : 16
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship32",
+    "arriveTime" : {
+      "time" : 22277
+    },
+    "unloadingTime" : {
+      "time" : 460
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship98",
+    "arriveTime" : {
+      "time" : 24136
+    },
+    "unloadingTime" : {
+      "time" : 876
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship23",
+    "arriveTime" : {
+      "time" : 24209
+    },
+    "unloadingTime" : {
+      "time" : 550
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship96",
+    "arriveTime" : {
+      "time" : 24999
+    },
+    "unloadingTime" : {
+      "time" : 13
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship60",
+    "arriveTime" : {
+      "time" : 25042
+    },
+    "unloadingTime" : {
+      "time" : 832
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship84",
+    "arriveTime" : {
+      "time" : 25323
+    },
+    "unloadingTime" : {
+      "time" : 162
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship41",
+    "arriveTime" : {
+      "time" : 26748
+    },
+    "unloadingTime" : {
+      "time" : 936
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship27",
+    "arriveTime" : {
+      "time" : 27054
+    },
+    "unloadingTime" : {
+      "time" : 120
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship14",
+    "arriveTime" : {
+      "time" : 27596
+    },
+    "unloadingTime" : {
+      "time" : 842
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship1",
+    "arriveTime" : {
+      "time" : 28669
+    },
+    "unloadingTime" : {
+      "time" : 1222
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship13",
+    "arriveTime" : {
+      "time" : 28839
+    },
+    "unloadingTime" : {
+      "time" : 2908
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship71",
+    "arriveTime" : {
+      "time" : 28865
+    },
+    "unloadingTime" : {
+      "time" : 132
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship63",
+    "arriveTime" : {
+      "time" : 29507
+    },
+    "unloadingTime" : {
+      "time" : 997
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship42",
+    "arriveTime" : {
+      "time" : 29838
+    },
+    "unloadingTime" : {
+      "time" : 860
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship26",
+    "arriveTime" : {
+      "time" : 30595
+    },
+    "unloadingTime" : {
+      "time" : 933
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship62",
+    "arriveTime" : {
+      "time" : 30798
+    },
+    "unloadingTime" : {
+      "time" : 379
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship40",
+    "arriveTime" : {
+      "time" : 31307
+    },
+    "unloadingTime" : {
+      "time" : 168
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship74",
+    "arriveTime" : {
+      "time" : 32415
+    },
+    "unloadingTime" : {
+      "time" : 366
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship83",
+    "arriveTime" : {
+      "time" : 32586
+    },
+    "unloadingTime" : {
+      "time" : 2708
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship19",
+    "arriveTime" : {
+      "time" : 32767
+    },
+    "unloadingTime" : {
+      "time" : 768
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship70",
+    "arriveTime" : {
+      "time" : 33080
+    },
+    "unloadingTime" : {
+      "time" : 1221
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship35",
+    "arriveTime" : {
+      "time" : 33593
+    },
+    "unloadingTime" : {
+      "time" : 412
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship90",
+    "arriveTime" : {
+      "time" : 33734
+    },
+    "unloadingTime" : {
+      "time" : 298
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship78",
+    "arriveTime" : {
+      "time" : 33980
+    },
+    "unloadingTime" : {
+      "time" : 1298
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship28",
+    "arriveTime" : {
+      "time" : 34258
+    },
+    "unloadingTime" : {
+      "time" : 236
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship76",
+    "arriveTime" : {
+      "time" : 34321
+    },
+    "unloadingTime" : {
+      "time" : 656
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship67",
+    "arriveTime" : {
+      "time" : 34708
+    },
+    "unloadingTime" : {
+      "time" : 447
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship97",
+    "arriveTime" : {
+      "time" : 34711
+    },
+    "unloadingTime" : {
+      "time" : 1051
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship8",
+    "arriveTime" : {
+      "time" : 34868
+    },
+    "unloadingTime" : {
+      "time" : 860
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship79",
+    "arriveTime" : {
+      "time" : 35619
+    },
+    "unloadingTime" : {
+      "time" : 839
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship21",
+    "arriveTime" : {
+      "time" : 36788
+    },
+    "unloadingTime" : {
+      "time" : 645
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship4",
+    "arriveTime" : {
+      "time" : 37564
+    },
+    "unloadingTime" : {
+      "time" : 101
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship72",
+    "arriveTime" : {
+      "time" : 38125
+    },
+    "unloadingTime" : {
+      "time" : 287
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship80",
+    "arriveTime" : {
+      "time" : 38511
+    },
+    "unloadingTime" : {
+      "time" : 818
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship87",
+    "arriveTime" : {
+      "time" : 38790
+    },
+    "unloadingTime" : {
+      "time" : 1709
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship6",
+    "arriveTime" : {
+      "time" : 39300
+    },
+    "unloadingTime" : {
+      "time" : 1076
+    },
+    "cargoType" : "BULK",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship82",
+    "arriveTime" : {
+      "time" : 39628
+    },
+    "unloadingTime" : {
+      "time" : 314
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship88",
+    "arriveTime" : {
+      "time" : 40510
+    },
+    "unloadingTime" : {
+      "time" : 611
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship58",
+    "arriveTime" : {
+      "time" : 40587
+    },
+    "unloadingTime" : {
+      "time" : 971
+    },
+    "cargoType" : "LIQUID",
+    "currentWeight" : 0
+  }, {
+    "name" : "ship30",
+    "arriveTime" : {
+      "time" : 41101
+    },
+    "unloadingTime" : {
+      "time" : 785
+    },
+    "cargoType" : "CONTAINER",
+    "currentWeight" : 0
+  } ],
+  "averageLengthUnloading" : 2,
+  "averageWaitingTime" : {
+    "time" : 493
+  },
+  "averageDelay" : {
+    "time" : 703
+  },
+  "maxDelay" : {
+    "time" : 1435
+  },
+  "totalAmountUnloadedShips" : 91,
+  "amountBulkShips" : 30,
+  "amountLiquidShips" : 26,
+  "amountContainerShips" : 35,
+  "totalFine" : 252000,
+  "bulkFine" : 90600,
+  "liquidFine" : 76000,
+  "containerFine" : 85400,
+  "amountBulkCranes" : 2,
+  "amountLiquidCranes" : 2,
+  "amountContainerCranes" : 2
+}

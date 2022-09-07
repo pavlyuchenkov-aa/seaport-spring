@@ -1,0 +1,8 @@
+com\example\service1\Service1Controller.class
+com\example\service1\Time.class
+com\example\service1\Ship.class
+com\example\service1\Timetable.class
+com\example\service1\Service1Application.class
+com\example\service1\CommonConstants.class
+com\example\service1\Cargo$CargoTypes.class
+com\example\service1\Cargo.class
